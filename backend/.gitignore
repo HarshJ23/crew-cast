@@ -1,0 +1,25 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+env/
+env.bak/
+*.env
+
+
+
+# Ignore .env files containing secrets
+.env
+
+
+
+
+
+
+
+
+
+
